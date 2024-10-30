@@ -92,3 +92,5 @@ In order to actually run a method at the top of your bloop code call run functio
 The user can the run the created C file in any c compiler
 The original Bloop can be found at https://en.wikipedia.org/wiki/BlooP_and_FlooP
 This is inspired by it but it currently lacks some of the features in the original
+
+Enjoy :)
