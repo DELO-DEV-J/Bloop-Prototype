@@ -84,3 +84,11 @@ void MINUS(int M, int N) {
 - Enhanced error handling and logging.
 - Support for additional language features and syntax.
 - Optimization of generated code.
+
+## For people familiar with Bloop
+I have done some small changes to bloop primarily in the use cases of () vs [].
+Cells use [] and function calls use ().
+In order to actually run a method at the top of your bloop code call run function_name(integer parameters). 
+The user can the run the created C file in any c compiler
+The original Bloop can be found at https://en.wikipedia.org/wiki/BlooP_and_FlooP
+This is inspired by it but it currently lacks some of the features in the original
