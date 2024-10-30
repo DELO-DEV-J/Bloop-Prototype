@@ -1,4 +1,4 @@
-# Godel's Bloop Language Compiler
+# Gödel's Bloop Language Compiler
 
 ## Overview
 This repository contains an implementation of a compiler for a pseudo-language inspired by Gödel's "Bloop" (a simplified programming language). The main purpose of this project is to parse a custom input format, generate corresponding tokens, and compile the tokens into a basic C-like language that can be saved into a `.c` file and run using a C compiler.
